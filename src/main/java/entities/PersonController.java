@@ -57,7 +57,7 @@ public class PersonController {
     // ============================================ //
     @RequestMapping
     public String mainPage() {
-        return "Hello, this is the main page of a app!";
+        return "Hello, this is the main page of a app SpringFirstApplication!";
     }
     @RequestMapping("/hello")
     public String index(@RequestParam(name = "name", required = false, defaultValue = "Noname") String name) {
