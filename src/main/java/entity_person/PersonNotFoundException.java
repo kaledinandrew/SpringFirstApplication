@@ -1,4 +1,4 @@
-package entities;
+package entity_person;
 
 public class PersonNotFoundException extends RuntimeException {
     public PersonNotFoundException(Long id) {

@@ -1,4 +1,4 @@
-package entities;
+package entity_person;
 
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;

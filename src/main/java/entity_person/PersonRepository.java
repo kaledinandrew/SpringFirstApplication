@@ -1,4 +1,4 @@
-package entities;
+package entity_person;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
